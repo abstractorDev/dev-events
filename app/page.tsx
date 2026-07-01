@@ -1,6 +1,7 @@
 import EventCard from '@/components/EventCard';
 import ExploreBtn from '@/components/Explore';
 import { events } from '@/lib/constants';
+import Image from 'next/image';
 
 const Page = () => {
 	return (
